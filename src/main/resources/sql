@@ -1,0 +1,3 @@
+CREATE SCHEMA topic_storage;
+
+SET SEARCH_PATH TO topic_storage
